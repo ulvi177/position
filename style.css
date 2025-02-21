@@ -1,13 +1,23 @@
 body {
-  font-family: 'Dosis', sans-serif;
+  font-family: "Dosis", sans-serif;
   font-weight: 500;
 }
 
 a {
   color: orange;
 }
-
 a:hover {
   color: black;
 }
-/*# sourceMappingURL=style.css.map */
+
+#holiday p {
+  width: 200px;
+}
+#holiday h1 {
+  margin: 10px 0;
+  width: 150px;
+  height: 150px;
+  background-color: #d489c4;
+  color: white;
+  padding: 10px 0 0 10px;
+}/*# sourceMappingURL=style.css.map */
